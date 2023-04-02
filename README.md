@@ -10,6 +10,7 @@
 - _Flourish: A Visionary New Understanding of Happiness and Well-Being_, by Martin E.P. Seligman
 - _Humor, Seriously: Why Humor Is a Secret Weapon in Business and Life_, by Jennifer Aaker, and Naomi Bagdonas
 - _Learned Optimism: How to Change Your Mind and Your Life_, by Martin E.P. Seligman
+- _Magnificent Mind at Any Age: Natural Ways to Unleash Your Brain’s Maximum Potential_, by Daniel G. Amen
 - _Positivity_, by Barbara Fredrickson
 - _Stumbling on Happiness_, by Daniel Gilbert
 - _Super Thinking: The Big Book of Mental Models_, by Gabriel Weinberg, and Lauren McCann
@@ -29,3 +30,4 @@
 ## Podcasts
 
 - On Purpose with Jay Shetty
+- The Huberman Lab Podcast, hosted by Dr. Andrew Huberman
