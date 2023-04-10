@@ -34,5 +34,6 @@
 - [A Bit of Optimism](https://simonsinek.com/podcast/), by Simon Sinek
 - [Getting Unstuck: The Innovation Station](https://soundcloud.com/gettingunstuck), with Kirsten Richert, and Jeff Ikler
 - [On Purpose](https://jayshetty.me/podcast/) with Jay Shetty
+- [Own Your Future](https://podcasts.apple.com/us/podcast/own-your-future-with-dean-graziosi/id1085301578) with Dean Graziosi
 - [Ten Percent Happier](https://www.tenpercent.com/podcast), with with Dan Harris
 - [The Huberman Lab Podcast](https://hubermanlab.com/welcome-to-the-huberman-lab-podcast/), hosted by Dr. Andrew Huberman
