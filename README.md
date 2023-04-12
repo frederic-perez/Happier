@@ -12,6 +12,7 @@
 - _Humor, Seriously: Why Humor Is a Secret Weapon in Business and Life_, by Jennifer Aaker, and Naomi Bagdonas
 - _Learned Optimism: How to Change Your Mind and Your Life_, by Martin E.P. Seligman
 - _Magnificent Mind at Any Age: Natural Ways to Unleash Your Brain’s Maximum Potential_, by Daniel G. Amen
+- _Outlive: The Science & Art of Longevity_, by [Peter Attia MD](https://peterattiamd.com/), and Bill Gifford » [summarist.ai](https://summarist.ai/summary/Outlive:%20The%20Science%20and%20Art%20of%20Longevity)
 - _Positivity_, by Barbara Fredrickson
 - _Stumbling on Happiness_, by Daniel Gilbert
 - _Super Thinking: The Big Book of Mental Models_, by Gabriel Weinberg, and Lauren McCann
