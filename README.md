@@ -14,6 +14,7 @@
 - _Magnificent Mind at Any Age: Natural Ways to Unleash Your Brain’s Maximum Potential_, by Daniel G. Amen
 - _Outlive: The Science & Art of Longevity_, by [Peter Attia MD](https://peterattiamd.com/), and Bill Gifford » [summarist.ai](https://summarist.ai/summary/Outlive:%20The%20Science%20and%20Art%20of%20Longevity)
 - _Positivity_, by Barbara Fredrickson
+- _Radical Candor: Be a Kick-Ass Boss Without Losing Your Humanity_, by Kim Scott » [summarist.ai](https://summarist.ai/summary/Radical%20Candor:%20Be%20a%20Kick-Ass%20Boss%20Without%20Losing%20Your%20Humanity)
 - _Stumbling on Happiness_, by Daniel Gilbert
 - _Super Thinking: The Big Book of Mental Models_, by Gabriel Weinberg, and Lauren McCann
 - _The Courage to Be Disliked: How to Free Yourself, Change Your Life, and Achieve Real Happiness_, by Ichiro Kishimi, and Fumitake Koga
