@@ -38,4 +38,5 @@
 - [On Purpose](https://jayshetty.me/podcast/) with Jay Shetty
 - [Own Your Future](https://podcasts.apple.com/us/podcast/own-your-future-with-dean-graziosi/id1085301578) with Dean Graziosi
 - [Ten Percent Happier](https://www.tenpercent.com/podcast), with with Dan Harris
+- [The Happiness Lab](https://www.pushkin.fm/podcasts/the-happiness-lab-with-dr-laurie-santos) with Dr. Laurie Santos
 - [The Huberman Lab Podcast](https://hubermanlab.com/welcome-to-the-huberman-lab-podcast/) \[[YouTube](https://www.youtube.com/c/AndrewHubermanLab)\], hosted by Dr. Andrew Huberman
