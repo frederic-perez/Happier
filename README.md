@@ -40,3 +40,7 @@
 - [Ten Percent Happier](https://www.tenpercent.com/podcast), with with Dan Harris
 - [The Happiness Lab](https://www.pushkin.fm/podcasts/the-happiness-lab-with-dr-laurie-santos) with Dr. Laurie Santos
 - [The Huberman Lab Podcast](https://hubermanlab.com/welcome-to-the-huberman-lab-podcast/) \[[YouTube](https://www.youtube.com/c/AndrewHubermanLab)\], hosted by Dr. Andrew Huberman
+
+## Miscellany
+
+- [We asked, you answered: What's your secret to staying optimistic in gloomy times?](https://www.npr.org/sections/goatsandsoda/2023/04/30/1172453921/we-asked-you-answered-whats-your-secret-to-staying-optimistic-in-gloomy-times)
