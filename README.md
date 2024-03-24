@@ -1,5 +1,11 @@
 # Happier
 
+<p align="center">
+  <img src="images/Epicteti_Enchiridion_Latinis_versibus_adumbratum_(Oxford_1715)_frontispiece -Cr-200V.webp?raw=true" alt="Epictetus from the Wikipedia"/>
+</p>
+
+<p style="max-width: 75%; margin: 0 auto;"><i>“Nearly 2,000 years ago, he</i> [Epictetus] <i>said: People are disturbed not by things—in other words, not by the events in our lives—but by the views we take of them.”</i>—David Burns, “Feeling Good” talk at TEDxReno</p>
+
 ## Books
 
 - _Anxiety Rx: A New Prescription for Anxiety Relief from the Doctor Who Created It_, by Russell Kennedy » [summarist.ai](https://summarist.ai/summary/Anxiety%20Rx:%20A%20New%20Prescription%20for%20Anxiety%20Relief%20from%20the%20Doctor%20Who%20Created%20It)
